@@ -9,6 +9,7 @@ pip install seaborn
 
 1. Not being sure from the question if I had to do count of products each category, product type and level1 together or separately with and without prices. In the assignment I have done separately.
 2. Plotting labels on x-axis for the graphs as the labels were too large. I tried to reduce the font and turn it into a 90-degree angle.
+3. Loading all the database in google colab. It was taking a long time to load.
 
 # Links for my profile
 
