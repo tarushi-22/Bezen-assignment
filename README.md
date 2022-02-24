@@ -5,6 +5,10 @@ Bezen DateEngineer Assignment
 pip install pandas
 pip install seaborn
 
+# How to run
+Open benzen.ipynb file and click on 'open in colab' button.The google colab notebook will open now you can run the code.
+
+
 # some problems I faced during the assignment
 
 1. Not being sure from the question if I had to do count of products each category, product type and level1 together or separately with and without prices. In the assignment I have done separately.
